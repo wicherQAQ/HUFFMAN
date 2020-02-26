@@ -256,11 +256,10 @@ void FileHandler::buildFile(ofstream& fout, string& path) {
 
 &emsp;&emsp;关于压缩率，我测试了`txt`文件，`jpg`文件，和`MP3`文件除了`txt`偶尔达到50%，其他均高达90%+，毕竟图片文件和`mp3`文件都是压缩后的产物，压缩率不高也很正常。
 
-### 其他
+### 相关文章
 
 关于二进制的介绍和c++文件操作相关，详见
 
-二进制：https://wicherqaq.github.io/2020/02/16/%E6%8F%AD%E5%BC%80%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%8E%E4%BD%8D%E7%A7%BB%E8%BF%90%E7%AE%97%E7%9A%84%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1/
+[揭开二进制与位移运算的神秘面纱](https://wicherqaq.github.io/2020/02/16/%E6%8F%AD%E5%BC%80%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%8E%E4%BD%8D%E7%A7%BB%E8%BF%90%E7%AE%97%E7%9A%84%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1/)
 
-c++i/o:https://wicherqaq.github.io/2020/02/09/%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9Cfstream/
-
+[文件操作fstream](https://wicherqaq.github.io/2020/02/09/%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9Cfstream/)
