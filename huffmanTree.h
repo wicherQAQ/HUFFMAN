@@ -45,6 +45,7 @@ public:
 	{
 		return root;
 	}
+
 	template <class T>
 	HuffmanTree(T* info)
 	{
